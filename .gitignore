@@ -1,0 +1,45 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+classes/
+
+### MacOS ###
+.DS_Store
+
+### Maven ###
+mvnw
+mvnw.cmd
+.mvn
+gradle
+.gradle*
+.gradle/
+out/
+
+### Other ###a
+Questions.md
+/apollo-config-cache/
+cg/
+
+.vscode/
+rebel.xml
